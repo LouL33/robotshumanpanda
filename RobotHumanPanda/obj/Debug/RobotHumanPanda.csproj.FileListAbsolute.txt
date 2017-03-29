@@ -1,0 +1,6 @@
+C:\Users\Lou75\tiy\week-3\RobotHumanPanda\RobotHumanPanda\bin\Debug\RobotHumanPanda.exe.config
+C:\Users\Lou75\tiy\week-3\RobotHumanPanda\RobotHumanPanda\bin\Debug\RobotHumanPanda.exe
+C:\Users\Lou75\tiy\week-3\RobotHumanPanda\RobotHumanPanda\bin\Debug\RobotHumanPanda.pdb
+C:\Users\Lou75\tiy\week-3\RobotHumanPanda\RobotHumanPanda\obj\Debug\RobotHumanPanda.csprojResolveAssemblyReference.cache
+C:\Users\Lou75\tiy\week-3\RobotHumanPanda\RobotHumanPanda\obj\Debug\RobotHumanPanda.exe
+C:\Users\Lou75\tiy\week-3\RobotHumanPanda\RobotHumanPanda\obj\Debug\RobotHumanPanda.pdb
